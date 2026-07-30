@@ -1,6 +1,8 @@
 # Browser for LoTW
 
-Browser for LoTW is an Android application for downloading, browsing, sorting, and filtering data from ARRL Logbook of The World (LoTW).
+Browser for LoTW is an Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
+
+**Status:** 🟡 Open Beta
 
 ## Features
 
@@ -11,17 +13,34 @@ Browser for LoTW is an Android application for downloading, browsing, sorting, a
 - Offline access after download
 - Demo mode included
 
-## Download
+## Google Play
 
-Available on Google Play.
+[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw)
 
-*(Google Play link coming soon.)*
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
+
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/records-list.png" alt="Browser for LoTW records list showing QSO and QSL information" width="180">
+  <img src="docs/screenshots/sort-and-filter.png" alt="Browser for LoTW sort and filter controls" width="180">
+  <img src="docs/screenshots/qso-details.png" alt="Browser for LoTW expanded QSO detail view" width="180">
+  <img src="docs/screenshots/download-records.png" alt="Browser for LoTW screen for fetching and managing downloaded records" width="180">
+  <img src="docs/screenshots/about-and-support.png" alt="Browser for LoTW About screen with support and privacy options" width="180">
+</p>
+
+## Repository Purpose
+
+This public repository is maintained for Browser for LoTW documentation, release notes, and issue tracking. It does not contain the application source code.
 
 ## Documentation
 
 Additional documentation is available in the [docs](docs/) directory.
 
 - [Release Notes](docs/release-notes.md)
+- [Product Page](https://champagne.engineering/browser-for-lotw)
+- [Privacy Policy](https://champagne.engineering/privacy)
+- [Terms of Service](https://champagne.engineering/tos)
 
 ## Support
 

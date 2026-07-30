@@ -5,6 +5,4 @@ This directory contains documentation for Browser for LoTW.
 ## Contents
 
 - Release Notes
-- Frequently Asked Questions
-- Screenshots
-- Known Issues
+- Screenshots in [screenshots](screenshots/)
