@@ -6,12 +6,14 @@ Browser for LoTW is an Android application for browsing, searching, sorting, and
 
 ## Features
 
-- Download QSOs and QSLs directly from LoTW
-- Browse downloaded data locally
-- Sort by any displayed column
-- Powerful regular expression filtering
-- Offline access after download
-- Demo mode included
+- Download LoTW records directly from ARRL
+- Browse QSOs and QSLs
+- Advanced sorting and filtering
+- Regular-expression filtering
+- Detailed QSO and QSL views
+- Offline browsing and local storage
+- Demo mode
+- Language selection: English, French, Portuguese, and Spanish
 
 ## Google Play
 
