@@ -50,6 +50,8 @@ Website: https://champagne.engineering
 
 Email: support@champagne.engineering
 
-## Disclaimer
+## Copyright and Disclaimer
 
-Browser for LoTW is an independent application and is not affiliated with or endorsed by the American Radio Relay League (ARRL).
+© 2026 Champagne Engineering, LLC. All rights reserved.
+
+Browser for LoTW is an independent application developed under the CE Widgets brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by, or sponsored by the American Radio Relay League (ARRL).
