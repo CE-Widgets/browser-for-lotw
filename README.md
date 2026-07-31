@@ -13,7 +13,7 @@ Browser for LoTW is an Android application for browsing, searching, sorting, and
 - Detailed QSO and QSL views
 - Offline browsing and local storage
 - Demo mode
-- Language selection: English, French, Portuguese, and Spanish
+- Language selection: English, French, German, Portuguese, and Spanish
 
 ## Google Play
 
