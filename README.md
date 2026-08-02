@@ -4,6 +4,8 @@ Browser for LoTW is an Android application for browsing, searching, sorting, and
 
 **Status:** 🟡 Open Beta
 
+![Browser for LoTW feature graphic showing the Android client and Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
+
 ## Features
 
 - Download LoTW records directly from ARRL
