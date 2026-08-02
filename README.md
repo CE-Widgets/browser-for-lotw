@@ -55,3 +55,5 @@ Email: support@champagne.engineering
 © 2026 Champagne Engineering, LLC. All rights reserved.
 
 Browser for LoTW is an independent application developed under the CE Widgets brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by, or sponsored by the American Radio Relay League (ARRL).
+
+“LoTW” and “Logbook of The World” are trademarks of The American Radio Relay League, Inc., used solely to describe compatibility with the LoTW service.
