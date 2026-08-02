@@ -4,5 +4,6 @@ This directory contains documentation for Browser for LoTW.
 
 ## Contents
 
-- Release Notes
-- Screenshots in [screenshots](screenshots/)
+- [Release Notes](release-notes.md)
+- [Screenshots](screenshots/)
+- [Product Page](https://champagne.engineering/browser-for-lotw)

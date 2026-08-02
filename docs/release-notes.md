@@ -1,5 +1,14 @@
 # Release Notes
 
+## Version 1.0.0
+
+### Highlights
+
+- Improved reliability when downloading very large LoTW logs, including continued downloads when the app is temporarily in the background.
+- Added app-language selection for English, German, Spanish, French, Brazilian Portuguese, and Portuguese (Portugal).
+- Preserved duplicate LoTW records returned by the service and improved update handling.
+- Updated for Android 16 compatibility.
+
 ## Version 0.2.5
 
 Initial Open Testing release.
