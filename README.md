@@ -1,10 +1,18 @@
 # Browser for LoTW
 
-Browser for LoTW is an Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
-
 **Status:** 🟡 Open Beta
 
 ![Browser for LoTW feature graphic showing the Android client and Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
+
+## Google Play
+
+[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw)
+
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
+
+## Overview
+
+Browser for LoTW is an Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
 
 ## Features
 
@@ -16,12 +24,6 @@ Browser for LoTW is an Android application for browsing, searching, sorting, and
 - Offline browsing and local storage
 - Demo mode
 - Language selection: English, French, German, Portuguese, and Spanish
-
-## Google Play
-
-[Join the Open Beta](https://play.google.com/apps/testing/engineering.champagne.browserforlotw)
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
 
 ## Screenshots
 
